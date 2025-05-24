@@ -1,0 +1,15 @@
+artifact_uri: /home/emmanuel/Documents/GitHub/PRE-08-mlflow-tracking-local-EmmanuelCuartasG/my_mlruns/110809152811556666/43c5c87b7a554c7d8a87bae8b2afce0f/artifacts
+end_time: 1748099814337
+entry_point_name: ''
+experiment_id: '110809152811556666'
+lifecycle_stage: active
+run_id: 43c5c87b7a554c7d8a87bae8b2afce0f
+run_name: elasticnet_92839167
+run_uuid: 43c5c87b7a554c7d8a87bae8b2afce0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748099814323
+status: 3
+tags: []
+user_id: emmanuel

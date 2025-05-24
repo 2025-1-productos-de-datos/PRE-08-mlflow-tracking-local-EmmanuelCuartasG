@@ -1,0 +1,15 @@
+artifact_uri: /home/emmanuel/Documents/GitHub/PRE-08-mlflow-tracking-local-EmmanuelCuartasG/my_mlruns/110809152811556666/868f1aaa218f4f8abb843097ea62ca0b/artifacts
+end_time: 1748099799060
+entry_point_name: ''
+experiment_id: '110809152811556666'
+lifecycle_stage: active
+run_id: 868f1aaa218f4f8abb843097ea62ca0b
+run_name: knn_9e6e0d91
+run_uuid: 868f1aaa218f4f8abb843097ea62ca0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748099799037
+status: 3
+tags: []
+user_id: emmanuel
